@@ -6,7 +6,6 @@ root = Tk()
 root.geometry("544x355")
 root.minsize(544, 355)
 root.title("To-Do List")
-root.wm_iconbitmap("todolist.png")
 
 
 # Commands
